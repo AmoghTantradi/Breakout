@@ -1,2 +1,1 @@
-# Comp-Sci-A
-code for Comp-Sci A
+This is my Breakout game for my COMPSCI A class
